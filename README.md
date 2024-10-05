@@ -1,4 +1,5 @@
 # Bank-system
+### Screenshot
 ![Alt Text](https://raw.githubusercontent.com/kareem-hijjawi/portfoliomedia/main/bankaccount.gif)
 
 This is a simple bank account management system built using Python and Tkinter. The system allows users to register, log in, deposit money, withdraw money, check their balance, and apply for loans based on their marital status and salary.
